@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @lateef-taiwo
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning flask, django and javascript
+- 👀 I’m interested in Cloud Computing and DevOps
+- My skills include but not limited to Linux, Python, HTML,CSS, Shell Scripting Networking, AWS, Azure.
+- 🌱 I’m currently improving my Clud skills in Kubernetes, Docker, CI/CD and also backend skills in django and nodejs.
+- I am a certified Linux System Administrator and also Certified in AWS and Azure
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me taiwolateef55@gmail.com
 
