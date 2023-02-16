@@ -1,3 +1,4 @@
+### About Me:
 - 👋 Hi, I’m @lateef-taiwo
 - 👀 I am a Cloud and DevOps Engineer
 - My skills include but not limited to Linux, Python, HTML, CSS, Shell Scripting Networking, AWS, Azure.
@@ -11,4 +12,6 @@ lateef-taiwo/lateef-taiwo is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-### Tech Stack and Tools
+### Tech Stack and Tools:
+https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg 
+
