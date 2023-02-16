@@ -13,5 +13,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Tech Stack and Tools:
-https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg 
-
+![docker](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg)
