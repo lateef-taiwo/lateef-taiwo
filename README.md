@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Tech Stack and Tools:
-![html](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)  ![css](https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg)  ![js](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)  ![react](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg)  ![mysql](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg)
+HTML CSS PYTHON NODEJS LINUX MYSQL DOCKER KUBERNETESE TERRAFORM ANSIBLE JENKINS TRAVIS CI GIT GITHUB-ACTIONS
