@@ -5,8 +5,8 @@
 - 🌱 I’m currently improving my DevOps skills and also backend skills in flask and nodejs.
 - I am a Linux certified System Administrator and also Certified in AWS and Azure
 - I write articles on [medium](https://medium.com/@taiwolateef55) and I am also a writer for [aws-in-plain-english](https://medium.com/aws-in-plain-english/two-tier-architecture-deployment-using-terraform-2ca26c5fde34)
-- 💞️ I’m looking to collaborate on github
-- 📫 How to reach me taiwolateef55@gmail.com
+- 💞️ I’m looking to collaborate on GitHub
+- 📫 You can reach me on taiwolateef55@gmail.com
 
 <!---
 lateef-taiwo/lateef-taiwo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
